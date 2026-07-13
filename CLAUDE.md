@@ -1,5 +1,17 @@
 # HyperFrames Project
 
+## Producing a video? READ THIS FIRST
+
+If this session is to make graphics for a video, **read `SOP.md`** (the standing production
+workflow: Descript = editor, HyperFrames = graphics; brand rules; per-video folders; the
+Descript MCP) before anything else. Then, if you're working a specific video, read its
+`videos/<slug>/START-HERE.md` for that video's current state and task.
+
+**Any on-screen text you write — chapter titles, callout copy, list/quote-card lines, lower-third
+labels — must follow `VOICE.md`** (root of this kit). Draft it, then check it against VOICE.md's
+banned list and formatting rules before rendering. Feedback has flagged chapter slides reading as
+LLM-generated (title case, inflated framing); this is the fix.
+
 ## Skills — USE THESE FIRST
 
 **Always invoke the relevant skill before writing or modifying compositions.** Skills encode framework-specific patterns (e.g., `window.__timelines` registration, `data-*` attribute semantics, shader-compatible CSS rules) that are NOT in generic web docs. Skipping them produces broken compositions.

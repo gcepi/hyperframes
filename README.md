@@ -130,6 +130,8 @@ HyperFrames/
 ├── meta.json           ← project name and ID
 ├── CLAUDE.md           ← instructions your AI agent reads automatically
 ├── AGENTS.md           ← same instructions, for Cursor / Codex / other agents
+├── DESIGN.md           ← visual identity (colors, type, motion) — read before building
+├── VOICE.md            ← writing voice rules for any on-screen text — read before writing copy
 └── .agents/skills/     ← all 14 installed skills (works in any AI agent)
 ```
 

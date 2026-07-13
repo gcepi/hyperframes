@@ -1,5 +1,12 @@
 # HyperFrames Composition Project
 
+## Writing on-screen text
+
+Any on-screen copy you write — chapter titles, callouts, list/quote-card lines, lower-third
+labels — must follow `VOICE.md` (root of this kit) before it's rendered. Check drafts against its
+banned list and formatting rules; chapter slides in particular have been flagged as reading like
+LLM output (title case, inflated framing).
+
 ## Skills
 
 This project uses AI agent skills for framework-specific patterns. Install them if not already present:
