@@ -1,6 +1,4 @@
-# HyperFrames Starter Kit
-
-[![Watch the video](https://img.youtube.com/vi/IDJ9M6LWeMw/maxresdefault.jpg)](https://youtu.be/IDJ9M6LWeMw?si=_R1UBeQLjJ0gQRjH)
+# HyperFrames
 
 A ready-to-use AI video production environment. Open this folder in Claude Code (or any compatible AI agent), describe the video you want to make, and your agent will build, animate, and render it to MP4 — complete with music, sound effects, voiceover, and thumbnails.
 
@@ -8,13 +6,9 @@ A ready-to-use AI video production environment. Open this folder in Claude Code 
 
 ## What This Repo Does
 
-HyperFrames is a framework that lets AI agents build videos as code — HTML files with animations and audio that render to `.mp4`. This starter kit comes pre-loaded with every skill your agent needs to go from idea to finished video.
+HyperFrames is a framework that lets AI agents build videos as code — HTML files with animations and audio that render to `.mp4`. This kit comes pre-loaded with every skill an agent needs to go from idea to finished video, plus a standing production workflow (`SOP.md`) and brand/voice system (`DESIGN.md`, `VOICE.md`) for running it as a real, repeatable pipeline rather than a one-off render.
 
 You don't need to know how to code. Just open the project in Claude Code and start talking to it.
-
-### See it in action
-
-A 10-second intro built with this kit: [demo/do-more-with-ai.mp4](demo/do-more-with-ai.mp4)
 
 ---
 
@@ -27,8 +21,8 @@ If you haven't already: [claude.ai/code](https://claude.ai/code)
 ### 2. Clone this repo and open it
 
 ```bash
-git clone <repo-url>
-cd HyperFrames
+git clone https://github.com/gcepi/hyperframes.git
+cd hyperframes
 claude .
 ```
 

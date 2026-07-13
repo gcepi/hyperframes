@@ -22,10 +22,3 @@ VOICE.md
 # Scratch scripts
 fix*.js
 revert-*.js
-
-Do More With Ai/
-Do More With Ai.zip
-
-# Demo video exception
-!demo/
-!demo/*.mp4
